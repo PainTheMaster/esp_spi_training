@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Development/ESP32/spi_oled/build/CMakeFiles/bootloader
+C:/Development/ESP32/spi_oled/build/CMakeFiles/bootloader.rule
+C:/Development/ESP32/spi_oled/build/CMakeFiles/bootloader-complete.rule
+C:/Development/ESP32/spi_oled/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Development/ESP32/spi_oled/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Development/ESP32/spi_oled/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Development/ESP32/spi_oled/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Development/ESP32/spi_oled/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Development/ESP32/spi_oled/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Development/ESP32/spi_oled/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
